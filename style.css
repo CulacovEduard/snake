@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+form {
+    text-align: center;
+}
+
+form input,
+form button {
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+  }
